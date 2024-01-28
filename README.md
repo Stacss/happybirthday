@@ -21,7 +21,7 @@ cd happybirthday
 composer install
 ```
 
-4. Скопируйте файл .env.example в файл .env и настройте параметры вашей базы данных:
+4. Скопируйте файл .env.example в файл .env и настройте параметры вашей базы данных, а так же почты:
 
 ```
 cp .env.example .env
